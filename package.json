@@ -1,0 +1,33 @@
+{
+  "name": "wh_app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "jest": "^23.1.0",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-react-native": "^3.2.1",
+    "i": "^0.3.6",
+    "react": "^16.3.1",
+    "react-native": "^0.55.4",
+    "react-native-easy-toast": "^1.1.0",
+    "react-native-firebase": "^4.2.0",
+    "react-native-image-crop-picker": "^0.20.3",
+    "react-native-splash-screen": "^3.0.9",
+    "react-native-webview-android": "^1.1.16",
+    "save": "^2.3.2"
+  }
+}

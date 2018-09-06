@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Applications/WORK/[2]SECONDSPACE/PROJECT/[8]wanghong/[4]app/wh_app/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/launch_screen.png",
+        "source": "/Applications/WORK/[2]SECONDSPACE/PROJECT/[8]wanghong/[4]app/wh_app/android/app/src/main/res/mipmap-hdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Applications/WORK/[2]SECONDSPACE/PROJECT/[8]wanghong/[4]app/wh_app/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Applications/WORK/[2]SECONDSPACE/PROJECT/[8]wanghong/[4]app/wh_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

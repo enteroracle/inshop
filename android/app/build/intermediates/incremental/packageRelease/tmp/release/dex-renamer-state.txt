@@ -1,0 +1,4 @@
+#Thu Sep 06 14:29:09 KST 2018
+base.0=/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

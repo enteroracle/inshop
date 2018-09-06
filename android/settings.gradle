@@ -1,0 +1,9 @@
+rootProject.name = 'wh_app'
+include ':react-native-splash-screen'
+project(':react-native-splash-screen').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-splash-screen/android')
+include ':react-native-webview-android'
+project(':react-native-webview-android').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-webview-android/android')
+include ':react-native-firebase'
+project(':react-native-firebase').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-firebase/android')
+
+include ':app'

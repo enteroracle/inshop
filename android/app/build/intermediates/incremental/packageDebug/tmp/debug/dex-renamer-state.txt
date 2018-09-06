@@ -1,0 +1,4 @@
+#Wed Jul 04 19:25:44 KST 2018
+base.0=/Applications/WORK/[2]SECONDSPACE/PROJECT/[8]wanghong/[4]app/wh_app/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

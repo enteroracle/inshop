@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">642430145003-ss447usvmq1qk5us4tc2otqvp7fo5pac.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wanghong-dev.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">642430145003</string>
+    <string name="google_api_key" translatable="false">AIzaSyDTMur1mK3vaC3s55T-FzXAq1Zk_TOMb4s</string>
+    <string name="google_app_id" translatable="false">1:642430145003:android:47d7abde16207c02</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDTMur1mK3vaC3s55T-FzXAq1Zk_TOMb4s</string>
+    <string name="google_storage_bucket" translatable="false">wanghong-dev.appspot.com</string>
+    <string name="project_id" translatable="false">wanghong-dev</string>
+</resources>
