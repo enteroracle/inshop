@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1e7f703572c93484d5a947074f516510/res/values-v16/values-v16.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ff9831fca3ebec1b96f022a725e3f7df/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/values-v16/values-v16.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1e7f703572c93484d5a947074f516510/res/values-v16/values-v16.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ff9831fca3ebec1b96f022a725e3f7df/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

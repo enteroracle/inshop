@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Protobuf</string>
+	<string>FirebaseCore</string>
+	<string>libkern</string>
+	<string>Photos</string>
+	<string>folly</string>
+	<string>FirebaseStorage</string>
+	<string>CoreLocation</string>
+	<string>RCTAnimation</string>
+	<string>QBImagePickerController</string>
+	<string>ImageIO</string>
+	<string>FirebaseDatabase</string>
+	<string>yoga</string>
+	<string>FirebaseFunctions</string>
+	<string>FirebaseMLVisionTextModel</string>
+	<string>RSKImageCropper</string>
+	<string>mach</string>
+	<string>FirebaseMLModelInterpreter</string>
+	<string>AVFoundation</string>
+	<string>FirebaseMessaging</string>
+	<string>os</string>
+	<string>GoogleMobileAds</string>
+	<string>MobileCoreServices</string>
+	<string>FirebaseInstanceID</string>
+	<string>FirebaseMLVisionFaceModel</string>
+	<string>CoreText</string>
+	<string>FirebaseAuth</string>
+	<string>FirebaseInvites</string>
+	<string>FirebaseMLVisionLabelModel</string>
+	<string>JavaScriptCore</string>
+	<string>cxxreact</string>
+	<string>CoreFoundation</string>
+	<string>FirebasePerformance</string>
+	<string>Crashlytics</string>
+	<string>XCTest</string>
+	<string>Accelerate</string>
+	<string>CommonCrypto</string>
+	<string>FirebaseRemoteConfig</string>
+	<string>fishhook</string>
+	<string>FirebaseMLVision</string>
+	<string>FirebaseCrash</string>
+	<string>QuartzCore</string>
+	<string>AudioToolbox</string>
+	<string>GoogleToolboxForMac</string>
+	<string>SystemConfiguration</string>
+	<string>FirebaseAnalytics</string>
+	<string>Security</string>
+	<string>CoreGraphics</string>
+	<string>objc</string>
+	<string>FirebaseDynamicLinks</string>
+	<string>UserNotifications</string>
+	<string>UIKit</string>
+	<string>jschelpers</string>
+	<string>CoreTelephony</string>
+	<string>FirebaseMLVisionBarcodeModel</string>
+	<string>Foundation</string>
+	<string>Fabric</string>
+	<string>sys</string>
+	<string>React</string>
+	<string>FirebaseFirestore</string>
+</array>
+</plist>

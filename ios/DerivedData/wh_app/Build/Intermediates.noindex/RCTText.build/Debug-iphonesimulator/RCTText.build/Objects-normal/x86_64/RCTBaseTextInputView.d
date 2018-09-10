@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h

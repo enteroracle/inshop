@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/src/release/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/enteroracle/project/inshop_app/android/app/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/enteroracle/project/inshop_app/android/app/src/release/jniLibs"/></dataSet></merger>

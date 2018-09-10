@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
-        "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1e7f703572c93484d5a947074f516510/res/layout-v21/notification_action.xml"
+        "merged": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ff9831fca3ebec1b96f022a725e3f7df/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1e7f703572c93484d5a947074f516510/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ff9831fca3ebec1b96f022a725e3f7df/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1e7f703572c93484d5a947074f516510/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ff9831fca3ebec1b96f022a725e3f7df/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/1e7f703572c93484d5a947074f516510/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ff9831fca3ebec1b96f022a725e3f7df/res/layout-v21/notification_template_icon_group.xml"
     }
 ]

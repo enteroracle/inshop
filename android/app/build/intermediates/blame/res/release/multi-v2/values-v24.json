@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/values-v24/values-v24.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/918c81ae513ef98b7eeb09694d1d62a4/res/values-v24/values-v24.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/157050d57152929a242d28a0d9fade9b/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/918c81ae513ef98b7eeb09694d1d62a4/res/values-v24/values-v24.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/157050d57152929a242d28a0d9fade9b/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

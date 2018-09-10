@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/enteroracle/project/inshop_app/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.m \
+  /Users/enteroracle/project/inshop_app/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/FirebaseMessaging/Firebase/Messaging/Protos/GtalkCore.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBProtocolBuffers.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBBootstrap.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBArray.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBRuntimeTypes.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBCodedInputStream.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBCodedOutputStream.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBWireFormat.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBDescriptor.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBDictionary.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBExtensionRegistry.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBMessage.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBRootObject.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBUnknownField.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBUnknownFieldSet.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBUtilities.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/GPBWellKnownTypes.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Any.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Duration.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Timestamp.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Api.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Empty.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/FieldMask.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/SourceContext.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Struct.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Type.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/Protobuf/Wrappers.pbobjc.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h

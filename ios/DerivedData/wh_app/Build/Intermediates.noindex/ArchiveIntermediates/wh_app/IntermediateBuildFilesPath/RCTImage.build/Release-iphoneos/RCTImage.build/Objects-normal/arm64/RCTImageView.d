@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Image/RCTImageView.m \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTResizeMode.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTConvert.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTAnimationType.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTBorderStyle.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTDefines.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTLog.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTAssert.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTUtils.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTPointerEvents.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTTextDecorationLineType.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/yoga/Yoga.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/yoga/YGEnums.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/yoga/YGMacros.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTBridge.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTBridgeDelegate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTJavaScriptLoader.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTBridgeModule.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTFrameUpdate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTInvalidating.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTEventDispatcher.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTImageSource.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/UIView+React.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTComponent.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTURLRequestHandler.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Intermediates.noindex/ArchiveIntermediates/wh_app/BuildProductsPath/Release-iphoneos/include/React/RCTURLRequestDelegate.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Image/RCTImageUtils.h

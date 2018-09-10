@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/values-ro/values-ro.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/194577aa8320de47e9c94837b6761c01/res/values-ro/values-ro.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/a9af85f1eacb947968d82e22f64f067f/res/values-ro/values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "280,401,509,632,736,849,937,1049,1170,1253,1365,1478,1578,1692,1797,1903,2024,2127",
-                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
-                        "endOffsets": "396,504,627,731,844,932,1044,1165,1248,1360,1473,1573,1687,1792,1898,2019,2122,2223"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "101",
+                        "endOffsets": "306"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,38",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,226,334,457,561,674,762,874,995,1078,1190,1303,1403,1517,1622,1728,1849,4807",
-                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
-                        "endOffsets": "221,329,452,556,669,757,869,990,1073,1185,1298,1398,1512,1617,1723,1844,1947,4903"
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4701",
+                        "endColumns": "105",
+                        "endOffsets": "4802"
                     }
                 },
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/be9234cb686dc55630f6f3e64a61d46e/res/values-ro/values.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/da9976ad5cd393c1b6dbc0a3f5e25bd3/res/values-ro/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cdb7b385fb0a31258cd2f3f12aa04c42/res/values-ro/values.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/290723629337351d6a6e0f6f818f3492/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,401,509,632,736,849,937,1049,1170,1253,1365,1478,1578,1692,1797,1903,2024,2127",
+                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
+                        "endOffsets": "396,504,627,731,844,932,1044,1165,1248,1360,1473,1573,1687,1792,1898,2019,2122,2223"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,226,334,457,561,674,762,874,995,1078,1190,1303,1403,1517,1622,1728,1849,4807",
+                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
+                        "endOffsets": "221,329,452,556,669,757,869,990,1073,1185,1298,1398,1512,1617,1723,1844,1947,4903"
+                    }
+                },
+                {
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e4023fa2827a5018cfa903e46d7afa27/res/values-ro/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,49 +69,32 @@
                         "startOffsets": "1952,2061,2253,2384,2495,2705,2839,2992,3334,3555,3667,3857,3991,4196,4392,4493,4590",
                         "endColumns": "108,191,130,110,209,133,152,137,220,111,189,133,204,195,100,96,110",
                         "endOffsets": "2056,2248,2379,2490,2700,2834,2987,3125,3550,3662,3852,3986,4191,4387,4488,4585,4696"
-                    }
-                },
-                {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/0d0024b0a8143cdfbb2eaa337035a9f1/res/values-ro/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "101",
-                        "endOffsets": "306"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4701",
-                        "endColumns": "105",
-                        "endOffsets": "4802"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/values-ro/values-ro.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/194577aa8320de47e9c94837b6761c01/res/values-ro/values-ro.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/a9af85f1eacb947968d82e22f64f067f/res/values-ro/values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "280,401,509,632,736,849,937,1049,1170,1253,1365,1478,1578,1692,1797,1903,2024,2127",
-                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
-                        "endOffsets": "396,504,627,731,844,932,1044,1165,1248,1360,1473,1573,1687,1792,1898,2019,2122,2223"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "101",
+                        "endOffsets": "306"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,38",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,226,334,457,561,674,762,874,995,1078,1190,1303,1403,1517,1622,1728,1849,4807",
-                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
-                        "endOffsets": "221,329,452,556,669,757,869,990,1073,1185,1298,1398,1512,1617,1723,1844,1947,4903"
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4701",
+                        "endColumns": "105",
+                        "endOffsets": "4802"
                     }
                 },
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/be9234cb686dc55630f6f3e64a61d46e/res/values-ro/values.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/da9976ad5cd393c1b6dbc0a3f5e25bd3/res/values-ro/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -111,7 +111,24 @@
                     }
                 },
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/cdb7b385fb0a31258cd2f3f12aa04c42/res/values-ro/values.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/290723629337351d6a6e0f6f818f3492/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,401,509,632,736,849,937,1049,1170,1253,1365,1478,1578,1692,1797,1903,2024,2127",
+                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
+                        "endOffsets": "396,504,627,731,844,932,1044,1165,1248,1360,1473,1573,1687,1792,1898,2019,2122,2223"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,226,334,457,561,674,762,874,995,1078,1190,1303,1403,1517,1622,1728,1849,4807",
+                        "endColumns": "120,107,122,103,112,87,111,120,82,111,112,99,113,104,105,120,102,100",
+                        "endOffsets": "221,329,452,556,669,757,869,990,1073,1185,1298,1398,1512,1617,1723,1844,1947,4903"
+                    }
+                },
+                {
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e4023fa2827a5018cfa903e46d7afa27/res/values-ro/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -125,23 +142,6 @@
                         "startOffsets": "1952,2061,2253,2384,2495,2705,2839,2992,3334,3555,3667,3857,3991,4196,4392,4493,4590",
                         "endColumns": "108,191,130,110,209,133,152,137,220,111,189,133,204,195,100,96,110",
                         "endOffsets": "2056,2248,2379,2490,2700,2834,2987,3125,3550,3662,3852,3986,4191,4387,4488,4585,4696"
-                    }
-                },
-                {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/0d0024b0a8143cdfbb2eaa337035a9f1/res/values-ro/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "101",
-                        "endOffsets": "306"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4701",
-                        "endColumns": "105",
-                        "endOffsets": "4802"
                     }
                 }
             ]

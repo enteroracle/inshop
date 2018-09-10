@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/values-or/values-or.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/0d0024b0a8143cdfbb2eaa337035a9f1/res/values-or/values.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/a9af85f1eacb947968d82e22f64f067f/res/values-or/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -23,10 +23,10 @@
             ]
         },
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/0d0024b0a8143cdfbb2eaa337035a9f1/res/values-or/values.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/a9af85f1eacb947968d82e22f64f067f/res/values-or/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

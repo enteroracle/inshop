@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr-rIN/values-mr-rIN.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/res/merged/release/values-mr-rIN/values-mr-rIN.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/194577aa8320de47e9c94837b6761c01/res/values-mr-rIN/values-mr-rIN.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/290723629337351d6a6e0f6f818f3492/res/values-mr-rIN/values-mr-rIN.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,10 +23,10 @@
             ]
         },
         {
-            "outputFile": "/Volumes/Samsung_T5/WORK/INSHOP/INSHOP-APP/android/app/build/intermediates/res/merged/release/values-mr-rIN/values-mr-rIN.xml",
+            "outputFile": "/Users/enteroracle/project/inshop_app/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mr-rIN/values-mr-rIN.xml",
             "map": [
                 {
-                    "source": "/Users/jinm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/194577aa8320de47e9c94837b6761c01/res/values-mr-rIN/values-mr-rIN.xml",
+                    "source": "/Users/enteroracle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/290723629337351d6a6e0f6f818f3492/res/values-mr-rIN/values-mr-rIN.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

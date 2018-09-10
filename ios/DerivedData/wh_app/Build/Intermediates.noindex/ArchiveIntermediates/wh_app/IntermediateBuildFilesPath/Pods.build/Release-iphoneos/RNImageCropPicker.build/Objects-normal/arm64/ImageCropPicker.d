@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-image-crop-picker/ios/src/ImageCropPicker.m \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Target\ Support\ Files/RNImageCropPicker/RNImageCropPicker-prefix.pch \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-image-crop-picker/ios/src/ImageCropPicker.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/React/RCTImageLoader.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/React/RCTResizeMode.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTConvert.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTAnimationType.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTBorderStyle.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTLog.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTAssert.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTPointerEvents.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTTextDecorationLineType.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTURLRequestHandler.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Public/React/React/RCTURLRequestDelegate.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/QBImagePickerController/QBImagePickerController.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/RSKImageCropper.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/CGGeometry+RSKImageCropper.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/RSKImageCropViewController.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/RSKImageCropViewController+Protected.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/RSKImageScrollView.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/RSKInternalUtility.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/RSKTouchView.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/UIApplication+RSKImageCropper.h \
+  /Users/enteroracle/project/inshop_app/ios/Pods/Headers/Private/RSKImageCropper/UIImage+RSKImageCropper.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-image-crop-picker/ios/src/UIImage+Resize.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-image-crop-picker/ios/src/Compression.h

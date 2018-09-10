@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.m \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FIRApp.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FIRConfiguration.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FIRLoggerLevel.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FIROptions.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h \
+  ../../../ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging.h \
+  ../../../ios/Pods/Headers/Public/FirebaseMessaging/FIRMessaging.h

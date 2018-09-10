@@ -50,7 +50,7 @@ export default class App extends React.Component {
 
         this.exitApp = undefined;
 
-        this.baseUrl = 'https://inshopkore.com/';
+        this.baseUrl = 'https://inshopkorea.com/';
         // this.baseUrl = 'http://iamport.kr/demo';
         // this.baseUrl = 'https://fcmobile.inicis.com/smart/wcard/input_resp//input_kbcard.php';
 

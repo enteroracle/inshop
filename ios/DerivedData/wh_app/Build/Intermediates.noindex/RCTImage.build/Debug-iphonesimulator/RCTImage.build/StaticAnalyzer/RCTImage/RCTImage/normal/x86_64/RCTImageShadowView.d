@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
+  /Users/enteroracle/project/inshop_app/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/enteroracle/project/inshop_app/ios/DerivedData/wh_app/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
